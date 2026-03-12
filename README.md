@@ -60,14 +60,13 @@ I specialize in:
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Interview Assistant
-`LangChain · RAG · Hugging Face · FAISS · Streamlit · Prompt Engineering`
+### 🤖 AI-Powered Interview Simulator                            (Mar 2024 - Apr 2024)
+`LangChain · FastAPI ·  Groq Frontier Model · Prompt Engineering`
 
-Multi-turn agentic workflow with hierarchical **Research Agent + Editor Agent** pipeline for autonomous interview question generation from video transcripts.
-
-- **70%** reduction in manual question curation effort
-- **89%** top-3 semantic retrieval accuracy (500+ transcript segments)
-- **35%** hallucination reduction via A/B prompt versioning + self-reflection loops
+Designed and shipped a AI interview simulator from scratch featuring a live coding sandbox, resume analyzer, and company research module — integrating Groq API with dynamic prompt engineering to simulate realistic interview conversations across 3 distinct product modes.
+Built a resume parsing pipeline that accepts PDF/DOCX uploads, extracts text, and uses AI to generate keyword match scores and skill gap feedback against target roles — turning a manual, hours-long process into an automated under-5-second response.
+Implemented a company research engine covering 50 companies with interview process breakdowns, LeetCode question patterns— entirely AI-generated and delivered in real time through structured prompt design.
+Deployed a production-accessible web app on Vercel with no login required, session history tracking, and sub-5-second load times — demonstrating end-to-end ownership from idea to live product.
 
 ### 🏥 Maternal Risk Evaluation System
 `Scikit-learn · Flask · REST API · Postman · Feature Engineering`
