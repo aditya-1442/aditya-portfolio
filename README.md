@@ -106,7 +106,6 @@ This portfolio is a single-file **hand-crafted HTML/CSS/JS** site featuring:
 | 📧 Email | [adityamishra.jbs@gmail.com](mailto:adityamishra.jbs@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/aditya1442](https://linkedin.com/in/aditya1442) |
 | 🐙 GitHub | [github.com/aditya-1442](https://github.com/aditya-1442) |
-| 📱 Phone | +91 7817014564 |
 
 ---
 
