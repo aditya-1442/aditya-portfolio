@@ -1,7 +1,7 @@
 # 🤖 Aditya Mishra — AI Engineer Portfolio
 <img width="1440" height="694" alt="Screenshot 2026-03-12 at 15 16 04" src="https://github.com/user-attachments/assets/89b118fb-72ff-4e22-a7c0-a3efabdb4dc3" />
 
-> **ML Engineer · LLM & RAG Pipelines · LangChain · FastAPI · IIT (BHU) '25**
+> **Python · Machine Learning Pipelines · LLM & RAG · IIT (BHU) '25**
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-00ff9d?style=for-the-badge)](https://aditya-1442.github.io/aditya-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya1442)
